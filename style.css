@@ -1,0 +1,114 @@
+* {
+    margin: 0 auto;
+    width: 976px
+}
+
+p {
+    font-family: 'Arvo', serif
+}
+
+.info {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 12px;
+    text-align: center
+}
+
+#link1 {
+    text-decoration-line: none;
+    color: black
+}
+
+#link2 {
+    text-decoration-line: none;
+    color: black
+}
+
+#main {
+    background-image: url(images/texture-bois-noir.jpg);
+    padding-bottom: 40px;
+    padding-top: 30px
+}
+
+.text {
+    color: skyblue;
+    font-size: 35px;
+    text-align: center;
+    text-transform: uppercase;
+    padding-bottom: 50px
+}
+
+#img1 {
+    width: 200px;
+    height: auto;
+    padding-left: 15px;
+    padding-right: 15px
+}
+
+#img2 {
+    width: 150px;
+    height: auto
+}
+
+#img3 {
+    width: 180px;
+    height: auto
+}
+
+#img4 {
+    width: 240px;
+    height: auto
+}
+
+#img6 {
+    width: 260px;
+    height: auto
+}
+
+#img5 {
+    width: 240px;
+    height: auto
+}
+
+.main-page {
+    padding-left: 215px;
+    padding-right: 215px
+}
+
+.main-pizza {
+    padding-left: 125px;
+    padding-right: 125px;
+    padding-bottom: 50px
+}
+
+.info2 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 12px;
+    text-align: center;
+    color: white
+}
+
+footer {
+    background-color: black
+}
+
+#img7 {
+    width: 44px
+}
+
+#img8 {
+    width: 44px
+}
+
+#img9 {
+    width: 44px
+}
+
+#img10 {
+    width: 44px
+}
+
+.rsimage {
+    padding-left: 780px
+}
